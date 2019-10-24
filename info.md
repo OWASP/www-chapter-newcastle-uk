@@ -1,13 +1,12 @@
-### newcastle uk Information
+### Newcastle (UK) Information
 * [Flagship Project](#)
 * [Tool Project](#)
 * [Version 2.8.0](#)
 * [Builder](#)
 * [Breaker](#)
 
-### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
+### Social Links
+* [Meetup](https://www.meetup.com/OWASP-Newcastle-Chapter/)
 
 ### Code Repository
 * [repo](#)

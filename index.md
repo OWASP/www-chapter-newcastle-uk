@@ -1,13 +1,20 @@
 ---
 
 layout: col-sidebar
-title: OWASP newcastle uk
-tags: example-tag
+title: OWASP Newcastle (UK)
+tags: Newcastle UK
 level: 4
 
 region: Europe
 
 ---
+
+This is the Chapter Page of the OWASP Newcastle-Upon-Tyne (UK) Chapter.
+
+We meet four times a year, usually the last Tuesday of the month when we arrange meetups.
+
+We're always looking for speakers, so if you want to present a talk no matter how new you are then feel free to get in touch with one of the chapter leaders. We're happy to offer you help along the way to prepare and present your talk if needed/wanted.
+
 
 This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
 
