@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Newcastle (UK)
-tags: Newcastle UK
+tags: newcastle
 level: 4
 
 region: Europe

@@ -1,11 +1,9 @@
 ---
-
 title: Sponsorship
 layout: null
 order: 2
 tab: true
-tags: sponsorship
-
+tags: newcastle
 ---
 
 ## Sponsorship
