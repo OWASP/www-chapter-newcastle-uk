@@ -1,10 +1,12 @@
 ---
+
 title: Sponsorship
-displaytext: Sponsorship
 layout:  null
 tab: true
 order: 1
 tags: sponsorship
+displaytext: Sponsorship
+
 ---
 
 ## Sponsorship
