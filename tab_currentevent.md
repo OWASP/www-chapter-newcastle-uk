@@ -9,7 +9,7 @@ tags: newcastle
 
 ## Next Event
 
-**03/12/2019** 1800 - 2100 (location tbc) - [sign up here](https://www.meetup.com/OWASP-Newcastle-Chapter/events/265874769/)
+**03/12/2019** 1800 - 2100 (Northumbria University Law School, room CCE-401) - [sign up here](https://www.meetup.com/OWASP-Newcastle-Chapter/events/265874769/)
 
 [Capture the flag](https://www.meetup.com/OWASP-Newcastle-Chapter/events/265874769/) event. Following on from the success of their recent Avalanche CTF, we've asked Pentest to build a brand new CTF for everyone to tackle at OWASP Newcastle. Avalanche 2, as they’re calling it, will still be based on a petition/campaign website like 38 degrees or the UK.gov, but promises to be bigger and better than the original, with a host of new challenges.
 
