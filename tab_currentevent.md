@@ -9,7 +9,7 @@ tags: newcastle
 
 ## Next Event
 
-**05/02/2020** 1800 - 2100 (Location TBC)
+**05/05/2020** 1800 - 2100 (Location TBC)
 
 **Title**: TITLE
 
