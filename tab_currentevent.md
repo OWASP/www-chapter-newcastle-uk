@@ -38,11 +38,9 @@ Rattling around in my rusty cranium are memories of computing years past; a mill
 
 Schedule:
 
-Schedule:
-
 * 1800 - 1815 - Arrival and networking
 * 1815 - 1820 - OWASP Newcastle Welcome
 * 1820 - 1900 - Talk 1 
 * 1900 - 2000 - Pizza and Networking
-* 2000 - 2045 - Talk 2
-* 2045 - onwards Pub?
+* 2000 - 2030 - Talk 2
+* 2030 - onwards Pub?
