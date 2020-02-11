@@ -22,13 +22,17 @@ tags: newcastle
 
 ---
 
-**Title**: TITLE
+**Title**: Alice Through the Cyber Looking Glass
 
-**Speaker**: [NAME](LINK)
+**Speaker**: [Rick Trotter](https://twitter.com/the_gingercoder)
 
-**Bio**: .
+**Bio**: Rick Trotter is one of the last Generation-X geeks who grew up in a time of Microcomputers, IRC and BBS systems, becoming a digital pioneer in a new wild west web and falling through time one platform at a time. Join me gazing through the looking glass of an adventure spanning 40 years as we look to a new dawn of computing.
 
-**Description**: .
+**Description**: "Living backwards!" Alice repeated in great astonishment. "I never heard of such a thing!"
+"—but there's one great advantage in it, that one's memory works both ways."
+"I'm sure mine only works one way," Alice remarked. "I can't remember things before they happen."
+"It's a poor sort of memory that only works backwards," the Queen remarked.
+Rattling around in my rusty cranium are memories of computing years past; a million lines of code and mistakes aplenty across a varied career that prelude to a dozen possible futures. If there's one thing that I've learned it's that humans have a tendency to make the same mistakes over and over in new and interesting ways. I've lived through a few of the major events in recent computing history: from the dawn of the Internet, the rise of the Microcomputer, the invention of the world-wide-web, the dot-com bubble and the explosion of social media; but what lessons can we learn as a new generation takes over the console while the rest of us shuffle off into the end of line character?
 
 ---
 
