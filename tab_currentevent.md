@@ -11,6 +11,8 @@ tags: newcastle
 
 **05/05/2020** 1800 - 2100 (Location TBC)
 
+There will be three talks this time! Oh and we're hoping to record this event and all future events going forward.
+
 **Title**: Malware Threat Analysis and Intelligence Recon – Trickbot
 
 **Speaker**: [Chris Young](https://twitter.com/__shabab__)
@@ -36,11 +38,20 @@ Rattling around in my rusty cranium are memories of computing years past; a mill
 
 ---
 
+**Title**: TBC
+
+**Speaker**: [TBC](https://twitter.com/#)
+
+**Description**: TBC
+
+---
+
 Schedule:
 
 * 1800 - 1815 - Arrival and networking
 * 1815 - 1820 - OWASP Newcastle Welcome
 * 1820 - 1900 - Talk 1 
 * 1900 - 2000 - Pizza and Networking
-* 2000 - 2030 - Talk 2
-* 2030 - onwards Pub?
+* 2000 - 2030 Talk two
+* 2030 - 2100 Talk three
+* 2100 - pub?
