@@ -9,9 +9,9 @@ tags: newcastle
 
 ## Next Event
 
-**05/05/2020** 1800 - 2100 (Location TBC)
+**05/05/2020** 1800 - 2100 (Northumbria Law Building, 4th Floor, Room CCE1-401)
 
-There will be three talks this time! Oh and we're hoping to record this event and all future events going forward.
+We're hoping there will be three talks this time! Oh and we're hoping to record this event and all future events going forward.
 
 **Title**: Malware Threat Analysis and Intelligence Recon – Trickbot
 
