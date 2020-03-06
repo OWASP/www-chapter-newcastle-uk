@@ -38,11 +38,12 @@ Rattling around in my rusty cranium are memories of computing years past; a mill
 
 ---
 
-**Title**: TBC
+**Title**: A High Level Overview of the UK Smart Metering Programme
 
-**Speaker**: [TBC](https://twitter.com/#)
+**Speaker**: Zach Anucha [Twitter](https://twitter.com/zachndu) [LinkedIn](https://www.linkedin.com/in/zach-anucha-a3604725/)
 
-**Description**: TBC
+**Description**: This presentation will provide you with a high level overview of the UK Smart Metering Programme, its timelines, what the government is looking to achieve through the programme and the role CGI its implementation. Also, an overview of the intended impact on the UK, issues of privacy – personal and personal sensitive data, and critical national security data will be explored.
+CGI's role in securing the infrastructure, the data and assurance regime covering Independent Competent Organisation, SOC2, ISO27001 Certification, CHECK Pen Tests will be discussed at high level. Finally the core Security Services that CGI provides - (DCCKI (PKI), Federated IDM, Anomaly Detection, Access Control Broker, will be covered at high level.
 
 ---
 
