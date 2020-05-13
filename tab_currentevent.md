@@ -11,7 +11,5 @@ altfooter: true
 
 ## Next Event
 
-Details...
-
 **29/09/2020** Part of #Cyberfest
 
