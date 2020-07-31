@@ -6,6 +6,9 @@ tags: newcastle
 level: 4
 region: Europe
 altfooter: true
+meetup-group: OWASP-Newcastle-Chapter
+country: United Kingdom
+postal-code: 
 
 ---
 
