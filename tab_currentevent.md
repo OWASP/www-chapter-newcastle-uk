@@ -33,6 +33,7 @@ Two great talks and a new chapter leader?!
 
 **Description**:
 
-* Why setup a red team inside your company? - How to put the business case together
+* Why setup a red team inside your company? 
+* How to put the business case together
 * Getting the buy in and executing the business case
 * Lessons learned
