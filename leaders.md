@@ -6,9 +6,9 @@
 
 ### Social Media Links
 
-[Andi Twitter](https://twitter.com/dr0idandy)
-[Connot Twitter](https://twitter.com/iconnorclast)
-[Adam Twitter](https://twitter.com/adam_p81)
+* [Andi Twitter](https://twitter.com/dr0idandy)
+* [Connor Twitter](https://twitter.com/iconnorclast)
+* [Adam Twitter](https://twitter.com/adam_p81)
 
 ### Former Leaders
 
