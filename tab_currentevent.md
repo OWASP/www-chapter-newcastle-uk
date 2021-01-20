@@ -28,16 +28,21 @@ Our first event of 2021 and we're back with two great talks.
 Semgrep is a free open-source program analysis toolkit that finds bugs using custom analysis we’ve written and OSS code checks. Semgrep is ideal for security researchers, product security engineers, and developers who want to find complex code patterns without extensive knowledge of ASTs or advanced program analysis concepts.
 
 For example, find subprocess calls with shell=True in Python using the query:
+
 `subprocess.open(..., shell=True)`
+
 This will even find snippets like:
+
 ```import subprocess as s
 s.open(f'rm {args}', shell=True)
 ```
 
 Or find hardcoded credentials using the query:
+
 `boto3.client(..., aws_secret_access_key=”...”, aws_access_key_id=”...” )`
 
 Source code: [https://github.com/returntocorp/semgrep](https://github.com/returntocorp/semgrep)
+
 Test in your browser: [https://semgrep.dev/](https://semgrep.dev/)
 
 ### Talk 2
