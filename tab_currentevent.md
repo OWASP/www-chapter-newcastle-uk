@@ -13,7 +13,7 @@ altfooter: true
 
 **23/02/2021** 1900 - 2030 Online
 
-Our first event of 2021 and we're back with two great talks.
+Our first event of 2021 and we're back with two great talks. Tickets are available on our meetup event [page](https://www.meetup.com/OWASP-Newcastle-Chapter/) 
 
 ### Talk 1
 
@@ -47,4 +47,8 @@ Test in your browser: [https://semgrep.dev/](https://semgrep.dev/)
 
 ### Talk 2
 
-Details soon
+**Title**: Wham, bam, thank you scam!
+
+**Speaker**: [Adam Pickering](https://www.twitter.com/Adam_P81) 
+
+**Description**: A glance at how GDPR fines risk breeding laziness in Cyber security Management
