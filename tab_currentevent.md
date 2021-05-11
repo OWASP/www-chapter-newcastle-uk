@@ -11,6 +11,5 @@ altfooter: true
 
 ## Next Event
 
-We meet on the last Tuesday of every other month. Our next event will be on 27th April 2201.
+We meet on the last Tuesday of every other month. Our next event will be on **25th May 2021**.
 
-More details coming soon.
