@@ -2,7 +2,7 @@
 title: FormerLeaders
 layout: null
 displaytext: Former Leaders
-order: 4
+order: 3
 tab: true
 tags: newcastle
 altfooter: true
