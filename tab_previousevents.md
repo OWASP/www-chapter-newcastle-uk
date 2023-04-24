@@ -15,7 +15,131 @@ Here are the details from previous OWASP Newcastle meetups. Often there are link
 
 ---
 
+### 2022
+
+---
+
+#### **25/10/2022**
+
+**Title**: Anti-Anti-Virus: An Introduction to Evasion
+
+**Speaker**: Ben Harvey
+
+**Speaker Bio**: Ben is a specialist within Sage’s Offensive Security team. His role is to emulate attackers in order to highlight vulnerabilities within Sage’s products or infrastructure. This may involve penetration tests of web applications, creating convincing phishing emails or deploying ‘ransomware’ across Sage’s network – all to inform and improve defences.
+
+**Description**: OK so you’ve taken the bait. You’ve been convinced by the email; you’ve opened the attachment and you’ve enabled the macros. Then, nothing. Nothing happened. Until three hours later, when you receive an MFA alert, but you didn’t log in… We know what phishing looks like, and we know it’s dangerous, but what happens when you enable those macros? Join us as we look ‘under the hood’ of a phishing payload. We’ll look at how attackers get their code to run and techniques they’ll use to evade defences. Finally, we’ll ask ourselves the question – what’s the point in Anti-Virus then?
+
+---
+
+**Title**: An Unorthodox Method Of Achieving Persistence On iOS
+
+**Speaker**: James Duffy
+
+**Speaker Bio**: James is a security researcher, reverse engineer and author. His main platform of interest is iOS.
+
+**Description**: In this talk we’ll discuss techniques that will result in persistent code execution on iOS without any requirement for a jailbreak subsystem.
+
+---
+
+#### **19/05/2022**
+
+
+**Title**: Vehicle Cybersecurity: Every cloud has a silver lining..
+
+**Speaker**: Dani Walsh
+
+**Speaker Bio**: Dani led the class of 2015 achieving a first-class degree in Ethical Hacking for Computer Security from Northumbria University; where she also attained the Certified Ethical Hacker professional security status. The door opened into a software engineering role with Sevcon, later acquired by BorgWarner. Traversing through a career in embedded software engineering she has returned to her natural habitat of product cyber security management and engineering. She has progressed from Software Intern through to Global Cybersecurity Manager developing the foundation for Product Cybersecurity and the secure development within Borgwarner. For Dani, it’s not all about work - she is a leading light in STEM for the Northeast England helping to inspire the younger generation into pursuing STEM careers by running local code clubs.
+
+**Description**: Pre-warming seats, remote keyless entry, heated steering wheels, refrigerated glove boxes... we've come a long way in the automotive industry to bring the best experience for road users however gimmicky they may seem. These features come at a price and we're not just talking about money. The cybersecurity demands are now increasing exponentially for the vehicle OEMS and their suppliers because of today's feature-rich vehicles. A typical new vehicle has on average 100 million lines of code and with it brings potential zero-day and accidental vulnerabilities. The cybersecurity challenge in the modern vehicle is proportional to the size of the codebase- cybersecurity management is a daunting task. Cybersecurity is a major topic for almost every digital domain and with this, we can look to our fellow cybersecurity practitioners for guidance and inspiration for our own challenges.
+This presentation investigates the cross-over of web security lessons learnt and embedded security. What can we leverage? What should we ignore? OWASP Top 10 in an ECU? Well let's find out...
+
+---
+
+**Title**: Attack mitigation and incident response
+
+**Speaker**: Adam Bell
+
+**Speaker Bio**: My name is Adam Bell, I live in Washington, Tyne & Wear with my fiancée and 4 children. I’m a mature student at Northumbria University, Newcastle just about to finish my final year in Computer & Digital Forensics. I’m very passionate about data security and computer forensics. I’ve previously worked for large organizations in sales backgrounds. I worked for T-Mobile / EE for 9 years before leaving that job to go to university in 2015 starting a foundation degree then leading onto this degree. In the middle of my degree I’ve gone through a separation and divorce resulting in having to repeat first and second year. On the bright side I’ve learned more than a student doing 3 years would learn due to the course I study evolving over the years. I’m also a course rep for my course representing the students at faculty meetings. I’ve recently completed an accreditation with Microsoft in AI Fundamentals. I’m currently working towards my CHFI (Computer Hacker Forensics Investigator) accreditation with EC council. In my spare time in studies, I’m studying penetration testing.
+In my spare time I love to spend the time with my family, I play football once a week and train in Japanese jujitsu twice a week. I enjoy going to the cinema with my friends. I regularly play on my PS5 on any free evenings I have. I absolutely love technology also wanting the latest gadgets.
+
+**Description**: Cyber security is a rather large area within data security, that and digital forensics are two sides of the same coin. Although I do study digital forensics, I’m still very interested in the cyber security side and preventing a breach rather than needing to investigate it. The area I will be talking and presenting about is incident response.
+
+* Preparation
+* Detection & Analysis
+* Containment, eradication, and recovery
+* Post incident activity.
+
+I will also be covering the methods to reduce the likelihood of attack also.
+
+---
+
 ### 2021
+
+---
+
+#### **18/11/2021**
+
+OWASP Newcastle Chapter is proud to present our CTF event for 2021 in collaboration with OWASP Diversity and Inclusion Committee and many OWASP UK Chapters (including Bristol, Cambridge, Dorset, London, Reading and Suffolk).
+
+The CTF will be hosted by Security Innovation and will be instructor lead. It combines with Security Innovation's CMD+CTRL Bootcamp and they are extending an offer to all participants for 4 weeks' FREE access to the self-paced training courses.
+
+Although the event is online, as this is a live participatory event it will not be recorded.
+
+---
+
+#### **03/08/2021**
+
+**Title**: North East Cyber Crime Unit - Overview
+
+**Speaker**: Claire Vandenbroecke
+
+**Speaker Bio**: Since joining the Northumbria Police Specialist Cyber Crime Investigation Team in December 2018 I have completed training in CISMP, CompTIA Security+and Cyber Essentials. My primary role is to engage with businesses and communities in the Northumbria Police area, providing advice and guidance in the form of presentations, workshops and webinars. In addition, I provide personalised, one-to-one support to victims of cyber crime and am the Lead Coordinator of the free Vulnerability Assessment Service which the North East Protect Network provides to businesses in the Northumbria, Durham and Cleveland Police areas.
+
+**Description**: 
+* Introduction to the team and the National Cyber Security Project
+* The current threat landscape – Ransomware & current stats
+* An overview of the free services we offer, the service catalogue and the new North East Region Cyber Crime Unit website
+* The Shodan Project
+* Signposting to free resources on the NCSC website.
+
+
+---
+
+**Title**: SIEM Engineering
+
+**Speaker**: Kimberley Hendry
+
+**Speaker Bio**: Kimberley Hendry is a Cybersecurity Engineer at Th4ts3cur1ty.company and the co-lead of the North-East chapter of the Ladies Hacking Society. She works with SME's to improve their cyber defence through visibility and monitoring and is passionate about simplifying cybersecurity with the aim to make everyone safer.
+
+**Description**: What is a SIEM and what analysts do with them to help protect a business.
+
+
+---
+
+#### **25/05/2021**
+
+**Title**: B@ck 2 BaS!c5: OWASP Top 10
+
+**Speaker**: Security Queens 
+
+**Speaker Bios**: 
+
+**Sarah**: Hey! I'm Sarah, a recent graduate from Bournemouth University. I studied Forensic Computing and Security and graduated last year. During my final year I was Vice President of the cyber security society, however also got stuck into the security community by attending conferences (my first one was with Sophia, and I got to watch her talk in 2018), where I ended up speaking on and winning the rookie track in 2019. From there I went on to run my first workshop at G3C, run the Bournemouth 2600 chapter and then become a content creator for Security Queens! I am now a junior security consultant at NCC.
+
+**Sophia**: Hello! I'm Sophia, also a recent graduate from Bournemouth University. I studied a BSc in Cyber Security Management and graduated at the same time as Sarah! I was President of the cyber security society, with Sarah as my trusty VP. Since my security journey started circum-2017, I've done a few bits and bobs... I've represented the UK three times at the European Cyber Security Challenge, and was appointed Team Captain in 2019. I was also on the Channel 4 TV show Hunted as a cyber hunter, and similar to Sarah have dabbled in the conference circuit delivering a few talks here and there! I've also (somehow) bagged a few awards, such as Cybersecurity Student of the Year and Highly Acclaimed Rising Star - but most importantly, I now run Security Queens with Sarah and have started my first industry job as a security consultant and penetration tester at NCC.
+
+**Description**: Be it an OWASP meet, we wanted to go back to basics and run through the OWASP top 10 vulnerabilities. Since we are both new to the industry we wanted to talk about something we have currently been learning about! For this talk we have decided to explain each vulnerability and walkthrough a challenge for each one. (Please pray to the demo gods for us). Since we are still newbies we wanted to finish off our talk with some time to open up the floor to questions and or discussions, so feel free to pitch in with neat tricks, techniques or tools you might use when faced up against these vulns yourself. We hope you enjoy! The Queens.
+
+
+---
+
+**Title**: Adventures in Out-of-Band Exploitation
+
+**Speaker**: Holly Grace
+
+**Bio**: Holly Grace has fourteen years of experience in leading information security teams. She holds a Master’s degree in Information Security from Cardiff University. Her early career was spent in the military working in roles such as Site Security Officer, although she now works with a wide range of organisations delivering information security testing. She is the Founder and technical lead for Akimbo Core, leading both the development of the software platform as well as leading the security testing capability. She is also the Managing Director of Secarma, a cybersecurity consultancy focused on Penetration Testing.
+
+**Description**: Out-of-Band exploitation is an often-overlooked method of exploiting vulnerabilities, speeding up exploitation of blind issues, and bypassing protection mechanisms. It’s a useful technique for attackers to improve their exploitation capability, but there are also some key “your logs are lying to you” lessons for defenders. In this talk we’ll look at it as an exploitation method for web vulnerabilities, as well as give an example of where it can be used to exfiltrate data from hardened internal networks.
 
 ---
 
