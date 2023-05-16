@@ -15,6 +15,33 @@ Here are the details from previous OWASP Newcastle meetups. Often there are link
 
 ---
 
+### 2023
+
+---
+
+#### **15/05/2023**
+
+**Title**: Threat Modelling
+
+**Speaker**: Robin Fewster
+
+**Speaker Bio**: Robin has over 20 years experience in cyber security, and is particularly interested in helping companies to improve their security posture. A recent area of focus has been to assist development teams with improving their security practices. This has included implementing security strategy, security champions programmes and threat modeling as a new process. Robin is also a former OWASP Newcastle chapter leader.
+
+**Description**: Drawing on some client experiences, Robin will discuss different threat modeling approaches and tools available, and how they went down with development teams.
+
+---
+
+**Title**: An Intro to DevSecOps, Devs like carrots not sticks
+
+**Speaker**: Simon Gurney
+
+**Speaker Bio**: Simon is one of the Punk Security Co-Founders and has over 15 years experience working within IT, primarily focused on automation and InfoSec.
+Simon has a wealth of experience and approaches DevOps from an infrastructure background, but is a keen Python and .NET CORE developer. He has authored two open source projects, pwnSpoof and SMBeagle.
+
+**Description**: In this talk, we will discuss how security tools and practices can be layered into DevOps to ensure that risk is managed but the flow of work is not unnecessarily constrained. We will talk about how you can automatically scan applications and environments for vulnerabilities, enforce robust frameworks and build better processes so security doesn’t fall between the gaps.
+
+---
+
 ### 2022
 
 ---
