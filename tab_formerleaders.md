@@ -16,4 +16,3 @@ Over the years we've had some great leaders help run the chapter. On here we'd l
 * **Connor Carr**
 * **Robin Fewster**
 * **Mike Goodwin**
-* **Adam Pickering**
