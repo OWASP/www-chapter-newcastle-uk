@@ -19,6 +19,25 @@ Here are the details from previous OWASP Newcastle meetups. Often there are link
 
 ---
 
+#### **03/07/2023** - Joint meetup with NELHS
+
+**Speaker**: Katie McMillan
+
+**Speaker Bio**: Katie is a Cybersecurity enthusiast, strategist and an advocate for Women in Technology. Katie was one of the winners of TechWomen100 in 2021.
+
+---
+
+**Title**: Look at me! I'm the manager now: Becoming a Security Engineer Manager, common pitfalls, lessons and more.
+
+**Speaker**: Marcus Tenorio
+
+**Speaker Bio**: Marcus Tenorio, A.K.A MART
+He is a Brazilian who didn't cost 40 million and has been working with security in recent years from research projects, to small hacks, to the pleasure of managing a team of security engineers and software engineers.
+
+**Description**: This session dives into transitioning from a security engineer to a security engineering manager, addressing common pitfalls, valuable lessons, and critical errors to avoid. We will have some insights into the challenges faced during this transition and learn practical strategies to overcome them. The talk emphasizes the importance of effective communication, stakeholder management, and cultivating a collaborative team culture by sharing real-world examples and providing guidance on navigating potential errors (that I did, again oh dear so many)
+
+---
+
 #### **15/05/2023**
 
 **Title**: Threat Modelling
