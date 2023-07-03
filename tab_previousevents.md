@@ -19,7 +19,7 @@ Here are the details from previous OWASP Newcastle meetups. Often there are link
 
 ---
 
-#### **03/07/2023** - Joint meetup with NELHS
+#### **05/07/2023** - Joint meetup with NELHS
 
 **Speaker**: Katie McMillan
 
