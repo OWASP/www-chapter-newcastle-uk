@@ -19,6 +19,39 @@ Here are the details from previous OWASP Newcastle meetups. Often there are link
 
 ---
 
+#### **21/09/2023** - Joint meetup with DevOpsNorthEast
+
+Title: Driving the most out of DAST
+
+**Speaker**: Simon Gurney
+
+**Speaker Bio**: Simon is one of the Punk Security Co-Founders and has over 15 years experience working within IT, primarily focused on automation and InfoSec.
+
+Simon has a wealth of experience and approaches DevOps from an infrastructure background, but is a keen Python and .NET CORE developer. He has authored two open source projects, pwnSpoof and SMBeagle.
+
+Talk Synopsis: Unlike SAST and IAST, DAST can be a difficult tool to implement and configure in DevSecOps pipelines. In this session, we will explore why this is and what the real prerequisites are to getting meaningful results from DAST tooling.
+
+Simon will explore a few different DAST tools, including ZAP, and discuss how using functional testing scripts can help navigate your apps and drive out DAST findings.
+
+---
+
+**Title**: A Security Engineer's job is to make SOC life interesting
+
+**Speaker**: Ben Docherty
+
+**Speaker Bio**: Ben is currently a Security Engineering Specialist at Adarma ​but has over a decade of security experience with around 4 years of experience in deploying Microsoft Sentinel at scale.
+
+Past roles include MSSP/MSP consultant, Head of Engineering, Lead Engineer, more things with engineer in the title.
+
+As a founder of BSidesNCL and creator of BattleBots, being part of an active cyber community is in his DNA. On the subject of DNA, ask Ben about bio hacking?
+
+Dome building technowomble / that odd guy with a wheelbarrow walking round the industrial estates "scavenging".
+
+**Talk Synopsis**: A badly engineered SIEM / SOAR solution can break a SOC. In this talk Ben will discuss planning and automation to better manage either a single tenant or MSSP setup within Azure Sentinel.
+Ben deeply believes an engineer's job is to make SOC life interesting, avoid ticket fatigue and decrease response times.
+
+---
+
 #### **05/07/2023** - Joint meetup with NELHS
 
 **Speaker**: Katie McMillan
