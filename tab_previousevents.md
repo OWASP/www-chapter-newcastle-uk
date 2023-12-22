@@ -19,6 +19,32 @@ Here are the details from previous OWASP Newcastle meetups. Often there are link
 
 ---
 
+#### **21/12/2023**
+
+**Title**:  Running the Microsoft Cyber Defence Operations Centre (CDOC)
+
+**Speaker**: John Dellinger
+
+**Speaker Bio**: John is a Chief Security Advisor working within the Microsoft Cyber Defence Operations Center. John has extensive multi-national experience in both the public and private sectors. Expertise across a variety of functions and disciplines including policy formulation and implementation, training, operations, strategic planning, risk management and cyber security.
+He is a dual U.S. and Australian citizen with twenty years of military experience as an officer, first in the United States Marine Corps and later in the Royal Australian Navy.
+
+**Talk Synopsis**: The Cyber Defense Operations Center brings together security response experts from across the company to help protect, detect, and respond to threats in real-time. Staffed with dedicated teams 24x7, the Center has direct access to thousands of security professionals, data scientists, and product engineers throughout Microsoft to ensure rapid response and resolution to security threats.
+Informed by trillions of data points across an extensive network of sensors, devices, authentications, and communications, the Center employs automated software, machine learning, behavioral analysis, and forensics to create an intelligent security graph. This threat intelligence insight helps the teams connect the dots, then counter with strong containment and coordinated remediation.
+
+In this presentation John will detail some of the inner workings of the CDOC both in terms of protecting internal Microsoft assets but also the Microsoft platforms it offers to cutomers.
+
+---
+
+**Title**: Cybersecurity in the Space Industry: Safeguarding the Final Frontier
+
+**Speaker**: Ros Grindrod
+
+**Speaker Bio**: Ros is currently Head of Security Services at Opencast Software and has over 6 years of experience working within information security including experience delivering cyber transformation work across a variety of industries. Ros's previous experience includes ethical hacking, social engineering, incident response preparedness, OSINT/threat modelling and all things GRC.
+
+**Talk Synopsis**: In this presentation, Ros will share her views on considerations for Cyber Security in the Space Industry.
+
+---
+
 #### **21/09/2023** - Joint meetup with DevOpsNorthEast
 
 Title: Driving the most out of DAST
