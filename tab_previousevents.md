@@ -15,6 +15,36 @@ Here are the details from previous OWASP Newcastle meetups. Often there are link
 
 ---
 
+### 2024
+
+---
+
+#### **13/03/2024**
+
+**Title**: Subdomain Hijacking & The CISO Simulator
+
+**Speaker**: Simon Gurney
+
+**Speaker Bio**: Simon is one of the Punk Security Co-Founders and has over 15 years experience working within IT, primarily focused on automation and InfoSec.
+Simon has a wealth of experience and approaches DevOps from an infrastructure background, but is a keen Python and .NET CORE developer. He has authored two open source projects, pwnSpoof and SMBeagle.
+
+**Talk Synopsis**: Subdomain hijacking (great for infosec, devs and devops pros)
+* what is it?
+* why was it in the news recently?
+* how do you prevent it?
+* a sneak peak at some new additions to dnsReaper, the tool we built at Punk Security Limited to squash this issue for free!
+
+---
+
+**Title**: First 90 days of a CISO, tens of vCISO engagements later.
+
+**Speaker**: Dr Zibby Kwecka
+
+**Speaker Bio**: Author and presenter on cyber security topics, holding a PhD in Applied Cryptography and Privacy with seventeen years of experience protecting organisations of all sizes and shapes from digital threats.
+
+
+---
+
 ### 2023
 
 ---
