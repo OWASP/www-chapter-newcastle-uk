@@ -22,20 +22,6 @@ As we encourage knowledge sharing and raising awareness of our events and the to
 
 ### Check our Upcoming Meetup Events:
 
-#### Wednesday, 19th February 2025 6:00pm (In-person)
-
-* OWASP Newcastle Chapter Meetup
-
-This event will be kindly hosted by Opencast Software.
-
-**TALKS:**
-
-* "Harassed by Hamas: Israel’s Cyberwar" - Andy Pannell
-* "Scaling Security Through Collaboration: The Role of Security Champions in Modern Organisations." - Kimberley Graham
-
-
-Registration/details: [https://www.meetup.com/owasp-newcastle-chapter/events/305613479/](https://www.meetup.com/owasp-newcastle-chapter/events/305613479/)
-
 ---
 Please follow OWASP Newcastle on [X](https://x.com/owasp_newcastle)/[Meetup](https://www.meetup.com/owasp-newcastle-chapter/)/[LinkedIn](https://www.linkedin.com/company/owasp-newcastle/) to be notified as soon as the next event date & location is announced
 
@@ -45,7 +31,6 @@ OWASP Newcastle Chapter upcoming events can be found on Meetup:
 [https://www.meetup.com/owasp-newcastle-chapter/](https://www.meetup.com/owasp-newcastle-chapter/)
 
 ---
-<!--
 {% include chapter_events.html group=page.meetup-group %}
 
 
@@ -69,4 +54,3 @@ OWASP Newcastle Chapter upcoming events can be found on Meetup:
     });
   });  
 </script>
--->
