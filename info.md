@@ -5,6 +5,5 @@
 ### Social Links
 * [Meetup](https://www.meetup.com/OWASP-Newcastle-Chapter/)
 * [Videos](https://playeur.com/c/OWASPNewcastle)
-* [Andi Twitter](https://twitter.com/dr0idandy)
-* [Dan Twitter](https://twitter.com/danmullen)
-* [Ade Twitter](https://twitter.com/Adie84)
+* [Dan - X](https://twitter.com/danmullen)
+* [Ade - X](https://twitter.com/Adie84)
