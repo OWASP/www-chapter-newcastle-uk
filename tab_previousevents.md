@@ -19,6 +19,30 @@ Here are the details from previous OWASP Newcastle meetups. Often there are link
 
 ---
 
+#### **19/06/2024**
+
+**Title**: Supercharging Enterprise DFIR - 'Forensics as Code', AI, Automation and Cloud.
+
+**Speaker**: Michael Lamb
+
+**Speaker Bio**: Currently the Director of SOC/DFIR for Precursor Security, experienced working in different SOC teams across public sector, financial services and managed services. I've lead DFIR engagements for a varied client base across EMEA.
+
+**Talk Synopsis**: This talk will introduce the latest techniques to supercharge your response to threat actors at enterprise scale. We will cover techniques I've employed to combat Lockbit, Akira and other TA's in challenging and diverse environments, focusing on new trends shaking up the DFIR corner such as performing forensics investigations 'as code', harnessing AI for DFIR and utilising Azure for automation and almost limitless scale.
+
+---
+
+**Title**: Utilising PowerBI for DFIR and incident investigation.
+
+**Speaker**: Venkatraman Krishnamoorthy
+
+**Speaker Bio**: Working as SOC manager for Sage . I have lead critical investigations, detection engineering efforts, Security automation.
+Providing free cyber security Mentoring for economically modest students.
+
+**Talk Synopsis**: Leveraging Power BI for Digital Forensics and Incident Response (DFIR): Enhancing Data Analysis and Visualization
+
+
+---
+
 #### **13/03/2024**
 
 **Title**: Subdomain Hijacking & The CISO Simulator
