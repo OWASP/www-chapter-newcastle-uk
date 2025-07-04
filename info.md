@@ -7,3 +7,6 @@
 * [Videos](https://playeur.com/c/OWASPNewcastle)
 * [Dan - X](https://twitter.com/danmullen)
 * [Ade - X](https://twitter.com/Adie84)
+
+### Files/Presentations
+* [Presentations Repo](https://github.com/OWASP/www-chapter-newcastle-uk/tree/master/presentations)
