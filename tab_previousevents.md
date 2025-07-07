@@ -15,6 +15,62 @@ Here are the details from previous OWASP Newcastle meetups. Often there are link
 
 ---
 
+### 2025
+
+---
+
+#### **02/07/2025**
+
+**Title**: [CyberNorth Update](presentations/2025-07-02-Cybernorth_Update.pdf)
+
+**Speaker**: Dan Phillips
+
+**Speaker Bio**: Dan is the CEO of CyberNorth, leading the cyber security cluster for the North East of England, representing the interests of over 1000 regional cyber professionals and helping to develop cyber skills, innovation opportunities and collaboration opportunities for members regionally, nationally and globally.
+
+---
+
+**Title**: [Large Language Threat Detection: AI in the SOC](presentations/2025-07-02-Large_Language_Threat_Detection.pdf)
+
+**Speaker**: Micahel Lamb
+
+**Speaker Bio**: Currently the Director of SOC/DFIR for Precursor Security, experienced working in different SOC teams across public sector, financial services and managed services. I've lead DFIR engagements for a varied client base across EMEA.
+
+**Talk Synopsis**: Threat Detection and Analysis have always been a challenge in SOC teams. With the advent of Large Language Models, this promises to improve the state of the triage function in a SOC. Join Michael Lamb, Director of Security Operations and SANS Instructor Candidate (LDR551) for an actionable overview/demo on how to build SOC AI workflows. Code included!
+
+---
+
+**Title**: [The Cyber Market - A Recruiter's Insight](presentations/2025-07-02-The_cyber_market.pptx)
+
+**Speaker**: Paul Newton
+
+**Speaker Bio**: Paul is a senior recruitment professional with over 20 years' experience working across various disciplines, notably Finance, HR and for the last decade, IT, where he specialises in IT Security, including Cyber, Governance, Risk & Compliance and Data Protection.
+
+---
+
+#### **19/02/2025**
+
+**Title**: Harassed by Hamas: Israel’s Cyberwar
+
+**Speaker**: Andy Pannell
+
+**Speaker Bio**: Andy Pannell is an accomplished application security lead with a keen focus on safeguarding product and cloud security for a prominent mobile ride-hailing company. His expertise lies in identifying vulnerabilities, implementing robust security measures, and ensuring the integrity of critical systems.
+Outside the digital realm, Andy indulges in a passion that balances the binary code: endurance racing. Andy spends hours at racetracks, appreciating the symphony of precision engineering and adrenaline-fueled competition.
+
+**Talk Synopsis**: This presentation examines (in my opinion) one of the most recently overused phrases in the media “cyber war”, and what it actually means in reality for us cyber security practitioners.
+We will start by examining warfare, and review previous nation states attacks that have crossed the boundary into offensive cyber operations.
+We will then focus on October 2023 and the tactics deployed by both Hamas and the IDF during the war, from a cyber perspective. To do this we will discuss reverse engineering malware samples, API security and DDoS attacks in detail.
+Lastly we will conclude by looking at what the future of cyber warfare looks like, and what we can do to best protect ourselves / our organisations in such events.
+
+---
+
+**Title**: Scaling Security Through Collaboration: The Role of Security Champions in Modern Organisations.
+
+**Speaker**: Kimberley Graham
+
+**Speaker Bio**: Kimberley is the Manager of People-Centered Security at Sage, headquartered in Newcastle. She is responsible for promoting and championing security within Sage.
+
+---
+
 ### 2024
 
 ---
