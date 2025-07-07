@@ -31,7 +31,7 @@ Here are the details from previous OWASP Newcastle meetups. Often there are link
 
 **Title**: [Large Language Threat Detection: AI in the SOC](presentations/2025-07-02-Large_Language_Threat_Detection.pdf)
 
-**Speaker**: Micahel Lamb
+**Speaker**: Michael Lamb
 
 **Speaker Bio**: Currently the Director of SOC/DFIR for Precursor Security, experienced working in different SOC teams across public sector, financial services and managed services. I've lead DFIR engagements for a varied client base across EMEA.
 
