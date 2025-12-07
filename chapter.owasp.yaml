@@ -1,0 +1,31 @@
+community:
+  - name: chapter-newcastleuk
+    platform: slack
+    url: https://owasp.slack.com/archives/C0CLHS45S
+    description: Announcements, news and chat for OWASP Newcastle UK
+leaders:
+  - name: Ade Wheldon
+    email: adrian.wheldon@owasp.org
+  - name: Dan Mullen
+    email: dan.mullen@owasp.org
+    github: danmullen
+  - name: Simon Gurney
+    email: simon.gurney@owasp.org
+location:
+  country: United Kingdom
+  country_code: GB
+  region: England
+  city: Newcastle upon Tyne
+  latitude: 54.97179255
+  longitude: -1.6288222588969745
+meetup_group: OWASP-Newcastle-Chapter
+name: OWASP Newcastle (UK)
+repositories:
+  - name: www-chapter-newcastle-uk
+    url: https://github.com/OWASP/www-chapter-newcastle-uk
+    description: OWASP Foundation Web Repository
+tags:
+  - newcastle
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-newcastle-uk
